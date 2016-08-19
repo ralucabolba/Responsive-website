@@ -3,6 +3,9 @@ body{
 	height: 100%;
 }
 
+img{
+	max-width: 100%
+}
 /*Cover*/
 #cover{
 	background: #222 url('img/blur.jpg') no-repeat;
@@ -16,4 +19,9 @@ body{
 
 #cover-caption{
 	width: 100%;
+}
+
+/*Card section*/
+#what-we-do{
+	padding: 20px;
 }
